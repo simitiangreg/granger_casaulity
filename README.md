@@ -1,6 +1,6 @@
 # Granger Casaulity
 
-A repo consisting of granger "causality" tests.
+A repo consisting of granger-(pseudo)causality tests.
 
 Any future Granger-Causality tests or ideas will be in this folder
 
